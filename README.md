@@ -19,4 +19,4 @@ regtxt.regtxt.org	TXT	bic=BANK2B;
 
 ## Origins
 
-regtxt was an idea that won the `Doing business` track at the Dutch Open Hackathon 2016 in Rotterdam. The idea was build and pitched by @webpatser.
+regtxt was an idea that won the `Doing business` track at the Dutch Open Hackathon 2016 in Rotterdam. The idea was build and pitched by [webpatser](http://github.com/webpatser).
